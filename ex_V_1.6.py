@@ -1,0 +1,8 @@
+a=int(input("enter a: "))
+b=int(input("enter b: "))
+c=int(input("enter c: "))
+d=int(input("enter d: "))
+min=min(a,b,c,d)
+max=max(a,b,c,d)
+print("Min: ",min)
+print("Max: ",max)
